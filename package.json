@@ -7,6 +7,10 @@
     "test": "mocha"
   },
   "author": "Jesper Jensen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-jensen/lang-core.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "mocha": "^8.1.3"
