@@ -1,0 +1,14 @@
+{
+  "name": "lang-core",
+  "version": "1.0.9",
+  "description": "Core functionality for handling .lang files in typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jesper Jensen",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
